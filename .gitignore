@@ -15,6 +15,7 @@ migrate_working_dir/
 # Build directories (but keep web build for GitHub Pages)
 /build/
 !/build/web/
+!/docs/
 
 # IntelliJ related
 *.iml
