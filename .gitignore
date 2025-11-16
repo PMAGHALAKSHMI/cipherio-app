@@ -12,6 +12,10 @@
 .swiftpm/
 migrate_working_dir/
 
+# Build directories (but keep web build for GitHub Pages)
+/build/
+!/build/web/
+
 # IntelliJ related
 *.iml
 *.ipr
